@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to yidianxinli 一点心理
 
-You can use the [editor on GitHub](https://github.com/shyustc/shyustc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 这里你将学习到好多心理学知识
+- 抑郁症
+- 焦虑症
+- 精神分裂症
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 以及认识很多心理学大师
+- 弗洛伊德
+- 森田正马
+- 艾里希 弗洛姆
+- 阿尔弗雷德 阿德勒
+- 欧文亚隆
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shyustc/shyustc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 以及很多有趣的书籍
+- 《自觉与领悟之路》
+- 《爱的艺术》
+- 《自卑与超越》
+- 《存在主义心理治疗》
+- 《梦的解析》
